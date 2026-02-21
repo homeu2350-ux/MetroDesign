@@ -1,0 +1,10 @@
+body {
+  min-height: 200vh; /* allows scrolling */
+  font-family: system-ui, sans-serif;
+  color: #ffffff;
+  /* REMOVE overflow: hidden; */
+}
+
+.content {
+  min-height: 200vh; /* makes page taller so you can scroll */
+}
