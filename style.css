@@ -8,3 +8,6 @@ body {
 .content {
   min-height: 200vh; /* makes page taller so you can scroll */
 }
+html {
+    scroll-behavior: smooth;
+}
